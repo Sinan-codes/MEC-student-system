@@ -1,1 +1,2 @@
 read studID, studName, studPhone, studAddress;
+student internship read;
